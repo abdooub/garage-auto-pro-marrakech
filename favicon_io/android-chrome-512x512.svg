@@ -1,0 +1,39 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="50" fill="#1f2937"/>
+  
+  <!-- Inner circles -->
+  <circle cx="256" cy="256" r="230" fill="#dc2626"/>
+  <circle cx="256" cy="256" r="220" fill="#1f2937"/>
+  
+  <!-- Car Body -->
+  <path d="M130 235L160 185H352L382 235V310H130V235Z" fill="#dc2626"/>
+  <path d="M138 235L163 193H349L374 235V303H138V235Z" fill="#ef4444"/>
+  
+  <!-- Windows -->
+  <rect x="175" y="200" width="60" height="30" rx="5" fill="#374151"/>
+  <rect x="277" y="200" width="60" height="30" rx="5" fill="#374151"/>
+  
+  <!-- Wheels -->
+  <circle cx="185" cy="310" r="30" fill="#111827"/>
+  <circle cx="185" cy="310" r="18" fill="#6b7280"/>
+  <circle cx="327" cy="310" r="30" fill="#111827"/>
+  <circle cx="327" cy="310" r="18" fill="#6b7280"/>
+  
+  <!-- Headlight -->
+  <circle cx="370" cy="256" r="10" fill="#fbbf24"/>
+  
+  <!-- Grille -->
+  <rect x="360" y="246" width="15" height="28" rx="3" fill="#374151"/>
+  
+  <!-- Wrench Tool -->
+  <g transform="translate(185, 170) rotate(-45)">
+    <rect x="-8" y="-45" width="16" height="75" rx="5" fill="#9ca3af"/>
+    <circle cx="0" cy="-47" r="14" fill="#9ca3af"/>
+    <circle cx="0" cy="-47" r="9" fill="#374151"/>
+  </g>
+  
+  <!-- Text GAP -->
+  <text x="256" y="400" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="white" text-anchor="middle">GAP</text>
+  <text x="256" y="445" font-family="Arial, sans-serif" font-size="30" font-weight="normal" fill="#ef4444" text-anchor="middle">MARRAKECH</text>
+</svg>

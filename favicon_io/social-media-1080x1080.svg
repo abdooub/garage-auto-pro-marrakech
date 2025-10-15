@@ -1,0 +1,43 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="#1f2937"/>
+  
+  <!-- Inner circles -->
+  <circle cx="540" cy="540" r="480" fill="#dc2626"/>
+  <circle cx="540" cy="540" r="460" fill="#1f2937"/>
+  
+  <!-- Car Body -->
+  <path d="M270 495L335 385H745L810 495V650H270V495Z" fill="#dc2626"/>
+  <path d="M285 495L340 405H740L795 495V635H285V495Z" fill="#ef4444"/>
+  
+  <!-- Windows -->
+  <rect x="365" y="420" width="125" height="65" rx="10" fill="#374151"/>
+  <rect x="590" y="420" width="125" height="65" rx="10" fill="#374151"/>
+  
+  <!-- Wheels -->
+  <circle cx="385" cy="650" r="65" fill="#111827"/>
+  <circle cx="385" cy="650" r="40" fill="#6b7280"/>
+  <circle cx="695" cy="650" r="65" fill="#111827"/>
+  <circle cx="695" cy="650" r="40" fill="#6b7280"/>
+  
+  <!-- Headlight -->
+  <circle cx="790" cy="540" r="22" fill="#fbbf24"/>
+  
+  <!-- Grille -->
+  <rect x="770" y="515" width="32" height="60" rx="6" fill="#374151"/>
+  
+  <!-- Wrench Tool -->
+  <g transform="translate(385, 355) rotate(-45)">
+    <rect x="-18" y="-95" width="36" height="160" rx="10" fill="#9ca3af"/>
+    <circle cx="0" cy="-100" r="30" fill="#9ca3af"/>
+    <circle cx="0" cy="-100" r="18" fill="#374151"/>
+  </g>
+  
+  <!-- Text GAP -->
+  <text x="540" y="820" font-family="Arial, sans-serif" font-size="140" font-weight="bold" fill="white" text-anchor="middle">GAP</text>
+  <text x="540" y="900" font-family="Arial, sans-serif" font-size="60" font-weight="600" fill="#ef4444" text-anchor="middle">GARAGE AUTO PRO</text>
+  <text x="540" y="960" font-family="Arial, sans-serif" font-size="45" fill="#9ca3af" text-anchor="middle">MARRAKECH</text>
+  
+  <!-- Contact Info -->
+  <text x="540" y="1020" font-family="Arial, sans-serif" font-size="35" fill="#6b7280" text-anchor="middle">+212 661-234567 | mecaniquemarrakech.com</text>
+</svg>

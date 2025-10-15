@@ -1,0 +1,29 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="24" cy="24" r="23" fill="#1f2937"/>
+  <circle cx="24" cy="24" r="21" fill="#dc2626"/>
+  <circle cx="24" cy="24" r="19" fill="#1f2937"/>
+  
+  <!-- Car Body -->
+  <path d="M12 22L15 18H33L36 22V30H12V22Z" fill="#dc2626"/>
+  <path d="M13 22L15.5 19H32.5L35 22V29H13V22Z" fill="#ef4444"/>
+  
+  <!-- Windows -->
+  <rect x="16" y="19.5" width="6" height="3" rx="1" fill="#374151"/>
+  <rect x="26" y="19.5" width="6" height="3" rx="1" fill="#374151"/>
+  
+  <!-- Wheels -->
+  <circle cx="17" cy="30" r="3" fill="#111827"/>
+  <circle cx="17" cy="30" r="2" fill="#6b7280"/>
+  <circle cx="31" cy="30" r="3" fill="#111827"/>
+  <circle cx="31" cy="30" r="2" fill="#6b7280"/>
+  
+  <!-- Headlight -->
+  <circle cx="34" cy="24" r="1.5" fill="#fbbf24"/>
+  
+  <!-- Wrench (small) -->
+  <g transform="translate(18, 10) rotate(-30)">
+    <rect x="-1" y="-3" width="2" height="6" rx="0.5" fill="#9ca3af"/>
+    <circle cx="0" cy="-3.5" r="1.5" fill="#9ca3af"/>
+  </g>
+</svg>
